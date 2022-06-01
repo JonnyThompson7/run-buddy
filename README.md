@@ -15,3 +15,6 @@ https://JonnyThompson7.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jonathan Thompson
+
+
+### ©️2019 Run Buddy, Inc
